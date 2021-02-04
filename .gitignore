@@ -1,0 +1,5 @@
+nonebot_plugin_itreflection.egg-info
+.vscode
+build
+dist
+__pycache__
